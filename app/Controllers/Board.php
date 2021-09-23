@@ -14,7 +14,6 @@ use App\Controllers\Bd_controller;
 class Board extends Controller{
 
     public function __construct() {
-
         helper( 'url' );
     }
 
