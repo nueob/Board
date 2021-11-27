@@ -1,12 +1,12 @@
-# CodeIgniter 4 Development
+# Board
 
-[![Build Status](https://github.com/codeigniter4/CodeIgniter4/workflows/PHPUnit/badge.svg)](https://github.com/codeigniter4/CodeIgniter4/actions?query=workflow%3A%22PHPUnit%22)
-[![Coverage Status](https://coveralls.io/repos/github/codeigniter4/CodeIgniter4/badge.svg?branch=develop)](https://coveralls.io/github/codeigniter4/CodeIgniter4?branch=develop)
-[![Downloads](https://poser.pugx.org/codeigniter4/framework/downloads)](https://packagist.org/packages/codeigniter4/framework)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/codeigniter4/CodeIgniter4)](https://packagist.org/packages/codeigniter4/framework)
-[![GitHub stars](https://img.shields.io/github/stars/codeigniter4/CodeIgniter4)](https://packagist.org/packages/codeigniter4/framework)
-[![GitHub license](https://img.shields.io/github/license/codeigniter4/CodeIgniter4)](https://github.com/codeigniter4/CodeIgniter4/blob/develop/LICENSE)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/codeigniter4/CodeIgniter4/pulls)
+<img src="https://img.shields.io/badge/PHP-blueviolet?style=flat-square&logo=PHP&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CodeIgniter3-red?style=flat-square&logo=CodeIgniter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/VueJS-brightgreen?style=flat-square&logo=Vue.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/docker-blue?style=flat-square&logo=XAMPP&logoColor=Docker"/></a>
+<img src="https://img.shields.io/badge/DBeaver-inactive?style=flat-square&logo=PHP&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/VSCODE-blue?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <br>
 
 ## What is CodeIgniter?
