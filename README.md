@@ -1,4 +1,4 @@
-# :page_facing_up: Board
+# :pushpin: Board
 
 <img src="https://img.shields.io/badge/PHP-blueviolet?style=flat-square&logo=PHP&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CodeIgniter3-red?style=flat-square&logo=CodeIgniter&logoColor=white"/></a>
@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/VSCODE-blue?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <br>
 
-## :star: Point
+## :pushpin: Point
 
 - MVC design pattern
 - PHP CRUD (Create, Read, Update, Delete)
